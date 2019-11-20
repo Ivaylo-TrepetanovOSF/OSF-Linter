@@ -8,9 +8,6 @@
     "access": "public"
   },
   "main": "index.js",
-  "engines": {
-    "node": ">=10.0.0"
-  },
   "bin": {
     "osf-linter": "./bin/osf-linter.js",
     "osf-fixer": "./bin/osf-fixer.js"
